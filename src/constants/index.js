@@ -1,0 +1,2 @@
+// TIME FOR TOAST
+export const TIME_TOAST = 2500;

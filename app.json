@@ -1,0 +1,11 @@
+{
+  "name": "enrutaapp",
+  "displayName": "enrutaapp",
+  "android:": {
+    "permissions": [
+      "CAMERA",
+      "ACCESS_COARSE_LOCATION",
+      "ACCESS_FINE_LOCATION"
+    ]
+  }
+}

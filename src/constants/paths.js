@@ -1,0 +1,18 @@
+export default {
+    CATALOGOS: 'Catalogos',
+    HOME: 'Inicio',
+    BORDO: 'Bordo',
+    RUTA: 'Ruta',
+    RUTA_HOME: 'RutaHome',
+    BORDO_HOME: 'BordoHome',
+    CLIENTE_LOADING: 'ClienteLoading',
+    CLIENTE_INDEX: 'ClienteIndex',
+    CLIENTE_FORM: 'ClienteNew',
+    PRODUCTO_LOADING: 'ProductoLoading',
+    PRODUCTO_INDEX: 'ProductoIndex',
+    PRODUCTO_FORM: 'ProductoNew',
+    RECIBIR_PRODUCTO: 'RecibirProducto',
+    RECIBIR_PRODUCTO_LOADING: 'RecibirProductoLoading',
+    RECIBIR_PRODUCTO_INDEX: 'RecibirProductoIndex',
+    RECIBIR_PRODUCTO_FORM: 'RecibirProductoForm',
+}
